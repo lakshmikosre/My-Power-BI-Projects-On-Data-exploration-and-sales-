@@ -21,6 +21,12 @@ Here I used industry data , performed ETL (Extract , transform and load ) operat
 
 # Task-6 :- Source of Information
 [Task 6.pdf](https://github.com/lakshmikosre/My-Power-BI-Projects-On-Data-exploration-and-sales-/files/15040833/Task.6.pdf)
+![image](https://github.com/lakshmikosre/My-Power-BI-Projects-On-Data-exploration-and-sales-/assets/99643702/b7fe525e-d5ed-4acd-b6a2-e928bf5e7398)
+
+# Task-7 :- Combine insights into a Dashboard
+[Task 7.pdf](https://github.com/lakshmikosre/My-Power-BI-Projects-On-Data-exploration-and-sales-/files/15040869/Task.7.pdf)
+![image](https://github.com/lakshmikosre/My-Power-BI-Projects-On-Data-exploration-and-sales-/assets/99643702/69a52b76-9112-4d4c-a9e7-686a68097eda)
+
 
 
 
